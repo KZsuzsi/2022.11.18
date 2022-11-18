@@ -1,0 +1,45 @@
+.fill-height {
+    min-height: 25vw;
+    height:auto;
+    height: 25vw;
+}
+
+.card {
+    width: 18%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-align: justify;
+}
+
+
+.card-footer {
+    margin: auto;
+
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.btn {
+    background-color: green;
+}
+
+.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+
+html, body {
+    height: 25vw;
+}
+
